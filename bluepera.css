@@ -1,0 +1,36 @@
+#blueperaa
+{
+    text-align: center;
+        color: blue;
+        }
+        a:link
+        {
+            color: goldenrod;
+            }
+            a:active
+            {
+                color: rgb(163, 234, 19);
+                }
+                a:visited
+                {
+                    color: rgb(90, 38, 232);
+                    }
+                    a:hover
+                    {
+                        font-weight: bold;
+                        }
+
+                        body
+                        {
+                            margin-left: 0;
+                                margin-top: 0;
+                                    margin-right: 0;
+                                        background: rgb(158, 243, 158);
+                                            background-image: url(img/car.jpg);
+                                                background-repeat: no-repeat;
+                                                    color: aliceblue;
+                                                    }
+                                                    p
+                                                    {
+                                                        text-indent: 1cm;
+                                                        }
