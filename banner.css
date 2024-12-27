@@ -1,0 +1,44 @@
+#banner
+{
+    font-family: tahoma;
+        background-color: #84a563;
+            padding: 2px 2px 2px 10px;
+            }
+
+            #navigation
+            {
+                padding: 10px;
+                    font-family: courier;
+                        border: 1px dotted;
+                            font-size: 100%;
+                                background-color: #5c892e;
+                                }
+
+                                #news
+                                {
+                                    padding: 4px;
+                                        font-family: tahoma;
+                                            background-color: #5c922e;
+                                            }
+
+                                            #content
+                                            {
+                                                padding: 2px;
+                                                    font-family: tahoma;
+                                                        background-color: #84a563;
+                                                        }
+
+
+                                                        a:hover
+                                                        {
+                                                            font-weight: bold;
+                                                            }
+                                                            a:active
+                                                            {
+                                                                color: rgb(103, 180, 180);
+                                                                }
+                                                                a:link,a:visited
+                                                                {   
+                                                                 text-decoration:none;
+                                                                  color: #550039;
+                                                                  }
